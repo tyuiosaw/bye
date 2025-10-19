@@ -9,17 +9,3 @@
     display: inline-flex;
     list-style-type: none;
 }
-
-.background{
-    background-color: rgb(241, 241, 241);
-    flex-grow: 2;
-    width: 100%;
-    height: 100%;
-}
-
-.background-left{
-    flex-grow:5;
-    background-color: azure;
-    width: 30%;
-    height: 100%;
-}
